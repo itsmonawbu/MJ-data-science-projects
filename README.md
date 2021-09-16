@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Aspiring Data Scientist in the making 👩‍🔬
 
-[Linkedin](linkedin.com/in/mona-jiang123/)
+Feel free to reach me through [Linkedin!](https://www.linkedin.com/in/mona-jiang123/)
 
