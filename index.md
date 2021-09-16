@@ -1,10 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome, this a data science gallery 
 
-You can use the [editor on GitHub](https://github.com/itsmonawbu/itsmonawbu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The gallery contains all the data science projects that I have worked on throughout my data science journey. Big Data is constantly evolving and therefore, the skills needed will be constantly changing. As an aspiring data scientist, I'm motivated to explored the different data science realms to further my data science career. I am passionate about transforming, and exploring big data to make an impact. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thanks for stopping by! Feel free to reach out anytime
 
-### Markdown
+Best, 
+Mona
+
+### Uber Analysis in R 
+
+![Uber](https://images.app.goo.gl/BTQ6672EXQETTUwp8)
+
+[https://images.app.goo.gl/BTQ6672EXQETTUwp8](https://github.com/itsmonawbu/Uber-Analysis-in-R)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
