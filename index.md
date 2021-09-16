@@ -7,11 +7,13 @@ Thanks for stopping by! Feel free to reach out anytime
 Best, 
 Mona
 
+__________________________________________________________
+
 ### [Uber Analysis in R](https://github.com/itsmonawbu/Uber-Analysis-in-R)
 
-![Uber](https://images.app.goo.gl/BTQ6672EXQETTUwp8)
+<img src="https://drive.google.com/uc?export=view&id=1U8PjbGBG8zzJNEo4-lLrmJ9oeceY8RPb" alt="drawing" width="150"/>
 
-## [Python Stanford Coding Animation]
+## [Python Stanford Coding Animation](https://github.com/itsmonawbu/codinganimation/blob/master/project.py)
 
 ![Animation](https://imgur.com/a/6SZWLdh)
 
