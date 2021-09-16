@@ -7,11 +7,13 @@ Thanks for stopping by! Feel free to reach out anytime
 Best, 
 Mona
 
-### Uber Analysis in R 
+### [Uber Analysis in R](https://github.com/itsmonawbu/Uber-Analysis-in-R)
 
 ![Uber](https://images.app.goo.gl/BTQ6672EXQETTUwp8)
 
-[https://images.app.goo.gl/BTQ6672EXQETTUwp8](https://github.com/itsmonawbu/Uber-Analysis-in-R)
+## [Python Stanford Coding Animation]
+
+![Animation](https://imgur.com/a/6SZWLdh)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
