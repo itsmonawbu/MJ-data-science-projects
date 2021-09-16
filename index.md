@@ -13,34 +13,14 @@ __________________________________________________________
 
 <img src="https://drive.google.com/uc?export=view&id=1U8PjbGBG8zzJNEo4-lLrmJ9oeceY8RPb" alt="drawing" width="150"/>
 
-## [Python Stanford Coding Animation](https://github.com/itsmonawbu/codinganimation/blob/master/project.py)
+### [Python Stanford Coding Animation](https://github.com/itsmonawbu/codinganimation/blob/master/project.py)
 
-![Animation](https://imgur.com/a/6SZWLdh)
+<img src="https://drive.google.com/uc?export=view&id=1q17L-rqNPPjsTnKUV91qGKWf5yFz7Vc9" alt="animation" width="150"/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itsmonawbu/itsmonawbu/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 
