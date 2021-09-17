@@ -19,9 +19,4 @@ __________________________________________________________
 
 ## KPMG Data Analytics Project 
 
-[KPMG MJ Slides.pptx](https://github.com/itsmonawbu/MJ-data-science-projects/files/7188114/KPMG.MJ.Slides.pptx)
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vThFbIauUgWO19WlDUvQjdTNSBKuYDmKtuRk6XuoKRolse_RAa1RgSl7ta79JBY8g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-
-[<img width="627" alt="Screen Shot 2021-09-17 at 3 48 58 PM" src="https://user-images.githubusercontent.com/66147688/133845500-41abe19a-67bd-451f-b40e-9f5f36f495c8.png">](https://docs.google.com/presentation/d/1VJ6BeAgFmF_cvkUJNkvi1_0NlNd0LoXw/edit?usp=sharing&ouid=106918213384191284788&rtpof=true&sd=true)
+[<img src="https://drive.google.com/uc?export=view&id=14bNiRl06eaImNe1UUH9XCYkbYtWAR7Dc" alt="slide title" width="200"/>](https://docs.google.com/presentation/d/1VJ6BeAgFmF_cvkUJNkvi1_0NlNd0LoXw/edit?usp=sharing&ouid=106918213384191284788&rtpof=true&sd=true)
