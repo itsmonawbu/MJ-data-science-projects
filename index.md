@@ -17,10 +17,8 @@ __________________________________________________________
 
 <img src="https://drive.google.com/uc?export=view&id=1q17L-rqNPPjsTnKUV91qGKWf5yFz7Vc9" alt="animation" width="150"/>
 
+## KPMG Data Analytics Project 
 
-
-
-
-
+[KPMG MJ Slides.pptx](https://github.com/itsmonawbu/MJ-data-science-projects/files/7188114/KPMG.MJ.Slides.pptx)
 
 
