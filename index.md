@@ -9,6 +9,10 @@ Mona
 
 __________________________________________________________
 
+### [Data Camp Projects](https://github.com/itsmonawbu/datacamp_projects)
+#### [Song Genre Classification](https://github.com/itsmonawbu/datacamp_projects/blob/main/Song%20Genres%20Project.ipynb)
+#### [Mobile Games A/B Testing Cookie Cats](https://github.com/itsmonawbu/datacamp_projects/blob/main/ab%20testing%20Cookie%20Cats.ipynb)
+
 ### [Uber Analysis in R](https://github.com/itsmonawbu/Uber-Analysis-in-R/blob/main/Uber%20Raw%20Data%20Analysis%202014.ipynb)
 
 <img src="https://drive.google.com/uc?export=view&id=1U8PjbGBG8zzJNEo4-lLrmJ9oeceY8RPb" alt="drawing" width="150"/>
