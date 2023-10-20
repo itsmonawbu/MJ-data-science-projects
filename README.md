@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Aspiring Data Scientist in the making 👩‍🔬 
+Aspiring Data Scientist in the making 👩‍🔬   
 ❤️‍🔥 Enthusiastic about data science, machine learning, math, and media technology  
 🐝 A busy bee with a positive work ethic, committed to personal growth and ongoing learning   
 💌 Fun Fact: pickleball is the new workout routine  
