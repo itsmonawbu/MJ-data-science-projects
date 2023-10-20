@@ -8,7 +8,7 @@ Best,
 Mona
 
 Certifications: 
-[IBM Data Science](https://www.coursera.org/account/accomplishments/specialization/certificate/X44BRZTZFNH4) 
+[IBM Data Science](https://www.coursera.org/account/accomplishments/specialization/certificate/X44BRZTZFNH4)  
 [SQL Fundamentals ](https://www.datacamp.com/statement-of-accomplishment/track/ebdb9e5572daecc628c1767408ffed4a52c8e4c2)
 __________________________________________________________
 
