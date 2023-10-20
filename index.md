@@ -1,12 +1,15 @@
 ## Welcome, this a data science gallery 
 
-The gallery contains all the data science projects that I have worked on throughout my data science journey. Big Data is constantly evolving and therefore, the skills needed will be constantly changing. As an aspiring data scientist, I'm motivated to explored the different data science realms to further my data science career. I am passionate about transforming, and exploring big data to make an impact. 
+The gallery contains all the data science projects that I have worked on throughout my data science journey. Big Data is constantly evolving and therefore, the skills needed will be constantly changing. As a self-taught data scientist, I'm motivated to explore the different machine learning methods and data manipulation techniques to further my data science career. I am passionate about transforming and exploring big data to make an impact. 
 
 Thanks for stopping by! Feel free to reach out anytime
 
 Best, 
 Mona
 
+Certifications: 
+[IBM Data Science](https://www.coursera.org/account/accomplishments/specialization/certificate/X44BRZTZFNH4) 
+[SQL Fundamentals ](https://www.datacamp.com/statement-of-accomplishment/track/ebdb9e5572daecc628c1767408ffed4a52c8e4c2)
 __________________________________________________________
 
 ### [Data Camp Projects](https://github.com/itsmonawbu/datacamp_projects)
