@@ -16,17 +16,19 @@ __________________________________________________________
 #### [Song Genre Classification](https://github.com/itsmonawbu/datacamp_projects/blob/main/Song%20Genres%20Project.ipynb)
 #### [Mobile Games A/B Testing Cookie Cats](https://github.com/itsmonawbu/datacamp_projects/blob/main/ab%20testing%20Cookie%20Cats.ipynb)  
 __________________________________________________________
-<p align="center">
-### [Uber Analysis in R](https://github.com/itsmonawbu/Uber-Analysis-in-R/blob/main/Uber%20Raw%20Data%20Analysis%202014.ipynb)
-&nbsp; &nbsp; &nbsp; &nbsp;
+
+### [Uber Analysis In R](https://github.com/itsmonawbu/Uber-Analysis-in-R/blob/main/Uber%20Raw%20Data%20Analysis%202014.ipynb)
+<p align='center'> 
 <img src="https://drive.google.com/uc?export=view&id=1U8PjbGBG8zzJNEo4-lLrmJ9oeceY8RPb" alt="drawing" width="150"/>
 </p>
 
-<p align="center">
 ### [Python Stanford Coding Animation](https://github.com/itsmonawbu/codinganimation/blob/master/project.py)
-&nbsp; &nbsp; &nbsp; &nbsp;
-[<img src="https://drive.google.com/uc?export=view&id=1q17L-rqNPPjsTnKUV91qGKWf5yFz7Vc9" alt="animation" width="150"/>](https://compedu.stanford.edu/codeinplace/public/projects/1139.html)
-</p>
-## [KPMG Data Analytics Project](https://docs.google.com/presentation/d/1VJ6BeAgFmF_cvkUJNkvi1_0NlNd0LoXw/edit?usp=sharing&ouid=106918213384191284788&rtpof=true&sd=true)
 
-[<img src="https://drive.google.com/uc?export=view&id=14bNiRl06eaImNe1UUH9XCYkbYtWAR7Dc" alt="slide title" width="200"/>](https://docs.google.com/presentation/d/1VJ6BeAgFmF_cvkUJNkvi1_0NlNd0LoXw/edit?usp=sharing&ouid=106918213384191284788&rtpof=true&sd=true)
+<p align='center'> 
+<img src="https://drive.google.com/uc?export=view&id=1q17L-rqNPPjsTnKUV91qGKWf5yFz7Vc9" alt="animation" width="150"/>
+</p>
+
+## [KPMG Data Analytics Project](https://docs.google.com/presentation/d/1VJ6BeAgFmF_cvkUJNkvi1_0NlNd0LoXw/edit?usp=sharing&ouid=106918213384191284788&rtpof=true&sd=true)
+<p align='center'> 
+<img src="https://drive.google.com/uc?export=view&id=14bNiRl06eaImNe1UUH9XCYkbYtWAR7Dc" alt="slide title" width="200" align='center'/> 
+</p>
